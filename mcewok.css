@@ -7,10 +7,20 @@ header{
 a{
 	color: black;
 	font-size: 20px;
+	
 }
 
 nav{
 	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	margin-left: 200px;
+	margin-right: 200px;
 }
 
 body{
